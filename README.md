@@ -1,4 +1,4 @@
-# KimDavisExtension
+# Essential Clone of KimDavisExtension
 
 Made for Eskandar
 
