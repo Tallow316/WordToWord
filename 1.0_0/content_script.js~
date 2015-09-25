@@ -36,10 +36,7 @@ function handleText(textNode)
     v = v.replace(/\bPeasant\b/g, "Console User");
     v = v.replace(/\bPCMR\b/g, "PC Users");
     v = v.replace(/\bterrorist\b/g, "Big Meanie-head");
-    //v = v.replace(/\bted Cruz\b/g, "Grandpa Munster");
 
-	//v = v.replace(/\bcruz\b/g, "Munster");
-   // v = v.replace(/\bCruz\b/g, "Munster");
 	
     textNode.nodeValue = v;
 }
